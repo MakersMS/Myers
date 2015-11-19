@@ -67,6 +67,7 @@ interface
  {$MODE DELPHI} // Delphi-compatible mode in FreePascal
 {$ENDIF}
 
+
 // ======== Define options for TRegExpr engine
 {.$DEFINE UniCode} // Unicode support
 {$DEFINE RegExpPCodeDump} // p-code dumping (see Dump method)
